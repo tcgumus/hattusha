@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/05333922-32f0-429b-926f-aa063d38a60c)
 
 # Hattusha
 
