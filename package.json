@@ -1,0 +1,28 @@
+{
+  "name": "hattusha",
+  "displayName": "Hattusha",
+  "publisher": "tcgumus",
+  "description": "A light VS Code theme inspired by the ancient city of Hattuşa.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcgumus/hattusha"
+  },
+  "icon": "icon.jpg",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hattusha",
+        "uiTheme": "vs",
+        "path": "./themes/Hattusha-color-theme.json"
+      }
+    ]
+  }
+}
